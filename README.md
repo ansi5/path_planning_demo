@@ -1,6 +1,8 @@
 # Path Planning with RRT, RRT*, and PRM
 
 **Author:** Almeqdad Khaled Alanesi  
+**LinkedIn:** https://www.linkedin.com/in/almeqdad-alanesi-066191255/
+**Email:** khalidalmegdad@gmail.com
 **Purpose:** A concise, reproducible guide explaining RRT, RRT*, and PRM with runnable Python code for each algorithm. Use this as a GitHub README and explanatory document for your repository.
 
 ---
